@@ -52,9 +52,11 @@ Rectifier with filter
 <img width="368" height="128" alt="{11712AF8-5661-4205-83F4-440B23AAB6CF}" src="https://github.com/user-attachments/assets/93fe4f31-faa4-4c12-b1bf-0e6560ccdfd9" />
 
 WAVEFORM:
-![WhatsApp Image 2025-10-21 at 14 50 24_d3f726a9](https://github.com/user-attachments/assets/457af4c3-a9a4-4a6e-9769-45d3c042caa3)
+![WhatsApp Image 2025-10-21 at 14 47 18_72d2168a](https://github.com/user-attachments/assets/3eaebec5-384a-483d-987a-cffe62b99232)
 
-![WhatsApp Image 2025-10-21 at 14 50 24_28134770](https://github.com/user-attachments/assets/35b27e03-b671-4a9d-a0ff-26d52dd697fe)
+
+![WhatsApp Image 2025-10-21 at 14 47 19_f900b0c3](https://github.com/user-attachments/assets/3200cb74-8704-416d-8e08-3994434b0246)
+
 
 
 RESULT:
